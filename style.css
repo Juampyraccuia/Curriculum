@@ -1,0 +1,82 @@
+.holder {
+    width: 960px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: rgb(231, 231, 231);
+}
+
+header {
+    background-color: #c40606;
+    padding: 1em 0;
+}
+
+header h1 {
+    color: rgb(238, 255, 0);
+    font-size: 2.5em;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    position: relative;
+    bottom: -10px;
+}
+
+nav {
+    background-color: #ff9000;
+    margin-bottom: 2em;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    width: 16.3%;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 0.2em 0.4em;
+}
+
+nav ul li a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+nav ul li a.activo {
+    background-color: #ffd399;
+    color: black;
+}
+
+.menu nav img {
+    display: none;
+}
+
+#titulos {
+    text-align: center;
+}
+
+#text {
+    padding: 10px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer {
+    background-color: #ccc;
+    clear: both;
+    color: #333;
+    padding: 3em 0;
+    margin-top: 2em;
+    text-align: center;
+}
