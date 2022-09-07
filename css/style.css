@@ -72,6 +72,11 @@ nav ul li a.activo {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+#foto{
+    width: 200px;
+    height: 200px;
+}
+
 footer {
     background-color: #ccc;
     clear: both;
