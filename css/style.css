@@ -62,18 +62,19 @@ nav ul li a.activo {
     display: none;
 }
 
-#titulos {
-    text-align: center;
-}
-
-#text {
+#texto{
     padding: 10px;
-    text-align: justify;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 100px;
+    background-color: #ff9000;
+    margin-left: 300px;
+    margin-top: -200px;
 }
 
 #foto{
-    width: 200px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    width: 250px;
     height: 200px;
 }
 
