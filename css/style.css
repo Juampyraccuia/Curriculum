@@ -64,11 +64,12 @@ nav ul li a.activo {
 
 .texto{
     padding: 5px;
-    width: 310px;
+    width: 330px;
     height: auto;
     font-size: 18px;
     text-align: justify;
     background-color: #ff9000;
+    border-radius: 5px;
     margin-left: 20px;
 }
 
