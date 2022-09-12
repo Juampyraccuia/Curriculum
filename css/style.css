@@ -78,6 +78,7 @@ nav ul li a.activo {
     font-style:oblique;
     margin-top: 10px; 
 }
+
 .contenedor{
 	margin-top: -25px;
 	display: flex;
@@ -85,9 +86,15 @@ nav ul li a.activo {
     height: max-content;
 }
 
+.contenedores{
+	margin-top: 15px;
+    margin-left: 250px;
+	display: flex;
+    width: max-content;
+    height: max-content;
+}
 
 #img{
-   
     width: 250px;
     height: 250px;
 }
